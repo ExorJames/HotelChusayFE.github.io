@@ -1,0 +1,734 @@
+@charset "utf-8";
+.header {
+    width: 100%;
+    height: 63px;
+    background-color: #FF6E00;
+    background-size: 85% 91%;
+    background-position: 0% 0%;
+}
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-left: 470px;
+    margin-top: 1px;
+}
+.Titulo {
+    color: #FFFFFF;
+    text-align: left;
+    margin-top: -104px;
+    margin-left: 35px;
+    width: 350px;
+    font-size: 20px;
+    font-family: "Poetsen One";
+}
+.inicio {
+    color: #FFFFFF;
+    margin-top: -19px;
+    margin-left: 660px;
+    width: 90px;
+    font-size: 20px;
+    font-family: "Poetsen One";
+    text-decoration: none;
+}
+.Acti {
+    color: #FFFFFF;
+    width: 170px;
+    margin-top: -19px;
+    margin-left: 780px;
+    font-size: 20px;
+    font-family: "Poetsen One";
+}
+.Ambi {
+    color: #FFFFFF;
+    width: 150px;
+    margin-top: -19px;
+    margin-left: 990px;
+    font-size: 20px;
+    font-family: "Poetsen One";
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.contac {
+    color: #FFFFFF;
+    font-size: 20px;
+    width: 137px;
+    margin-left: 1180px;
+    margin-top: -19px;
+    font-family: "Poetsen One";
+}
+.port1 {
+    width: 1343px;
+    height: 625px;
+}
+.porttitu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 93px;
+    margin-top: -547px;
+    width: 624px;
+    text-align: center;
+    margin-left: 347px;
+}
+.subtport {
+    color: #F8F8F8;
+    font-family: "Poetsen One";
+    text-align: center;
+    width: 585px;
+    margin-left: 371px;
+    margin-top: 96px;
+    font-size: 27px;
+}
+.fb {
+    width: 35px;
+    height: 35px;
+    margin-top: 128px;
+    margin-left: 184px;
+}
+.insta {
+    width: 38px;
+    height: 38px;
+    margin-left: 344px;
+}
+.tiktok {
+    width: 35px;
+    height: 35px;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+.fbtitu {
+    color: #FFFFFF;
+    width: 150px;
+    margin-top: -34px;
+    margin-left: 236px;
+    font-size: 30px;
+}
+.instatitu {
+    color: #FFFFFF;
+    font-size: 30px;
+    width: 178px;
+    margin-left: 619px;
+    margin-top: -31px;
+}
+.tiktitu {
+    color: #FFFFFF;
+    font-size: 30px;
+    width: 243px;
+    margin-top: -30px;
+    margin-left: 956px;
+}
+.vin {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.v {
+}
+.port2titu {
+    width: 401px;
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 70px;
+    margin-top: -601px;
+    margin-left: 479px;
+}
+.canotitu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 50px;
+    width: 186px;
+    margin-left: 143px;
+    margin-top: 85px;
+}
+.camititu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 50px;
+    width: 258px;
+    margin-left: 550px;
+    margin-top: -51px;
+}
+.obstitu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 40px;
+    text-align: center;
+    width: 246px;
+    margin-left: 982px;
+    margin-top: -59px;
+}
+.canodesc {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Poetsen One";
+    width: 265px;
+    margin-left: 100px;
+    margin-top: 190px;
+}
+.MI {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 25px;
+    width: 206px;
+    margin-left: 137px;
+    margin-top: 39px;
+}
+.camidesc {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    text-align: center;
+    width: 259px;
+    margin-left: 544px;
+    margin-top: -110px;
+}
+.MI2 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 25px;
+    width: 206px;
+    margin-left: 574px;
+    margin-top: -26px;
+}
+.obsdesc {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    text-align: center;
+    width: 254px;
+    margin-top: -113px;
+    margin-left: 985px;
+}
+.MI3 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 25px;
+    width: 206px;
+    margin-left: 1011px;
+    margin-top: 39px;
+}
+.port2 {
+    width: 1343px;
+    height: 625px;
+    margin-top: 70px;
+}
+.port3titu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 70px;
+    width: 361px;
+    margin-top: -588px;
+    margin-left: 500px;
+}
+.ambidesc {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 23px;
+    text-align: center;
+    width: 498px;
+    margin-left: 484px;
+    margin-top: 61px;
+}
+.ambidesc2 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 23px;
+    text-align: center;
+    width: 552px;
+    margin-top: 101px;
+    margin-left: 325px;
+}
+.ambidesc3 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 23px;
+    text-align: center;
+    width: 581px;
+    margin-left: 484px;
+    margin-top: 87px;
+}
+.MI4 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 30px;
+    text-align: center;
+    width: 308px;
+    margin-left: 948px;
+    margin-top: 48px;
+}
+.port4 {
+    width: 1343px;
+    height: 750px;
+    margin-top: 49px;
+}
+.port4titu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 70px;
+    width: 309px;
+    margin-top: -692px;
+    margin-left: 510px;
+}
+.port5 {
+    width: 1343px;
+    height: 739px;
+    margin-top: 49px;
+}
+.contact {
+    color: #FF7E00;
+    font-family: "Poetsen One";
+    font-size: 35px;
+    width: 164pt;
+    margin-top: 129px;
+    margin-left: 163px;
+}
+.nombre {
+    color: #FF7E00;
+    font-family: "Poetsen One";
+    width: 148px;
+    margin-top: 28px;
+    margin-left: 164px;
+    font-size: 16px;
+}
+.text {
+    margin-top: 14px;
+    margin-left: 166px;
+    background-color: #FF8600;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    width: 250px;
+}
+.correo {
+    color: #FF7E00;
+    font-family: "Poetsen One";
+    width: 155px;
+    margin-top: 12px;
+    margin-left: 164px;
+}
+.correotext {
+    background-color: #FF8600;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    margin-top: 12px;
+    margin-left: 165px;
+    width: 250px;
+}
+.telefo {
+    color: #FF7E00;
+    font-family: "Poetsen One";
+    width: 74px;
+    margin-top: 15px;
+    margin-left: 165px;
+}
+
+.tele {
+    background-color: #F77A00;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 164px;
+}
+.mot {
+    color: #FF8600;
+    font-family: "Poetsen One";
+    width: 60px;
+    margin-left: 494px;
+    margin-top: -186px;
+}
+.motitext {
+    color: #FF7E00;
+    font-family: "Poetsen One";
+    width: 157px;
+    margin-left: 489px;
+    margin-top: 7px;
+}
+.prov {
+    color: #FF8600;
+    font-family: "Poetsen One";
+    width: 76px;
+    margin-top: 13px;
+    margin-left: 495px;
+}
+.textprov {
+    background-color: #FF8600;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    width: 250px;
+    margin-left: 495px;
+    margin-top: 9px;
+}
+.mensa {
+    color: #FF7E00;
+    font-family: "Poetsen One";
+    width: 74px;
+    margin-left: 495px;
+    margin-top: 10px;
+}
+.textmensa {
+    background-color: #FF7E00;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    width: 250px;
+    margin-top: 12px;
+    margin-left: 496px;
+    height: 50px;
+}
+.enviar {
+    background-color: #FFA019;
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 31px;
+    border-color: #FFA600;
+    width: 261px;
+    margin-top: 8px;
+    margin-left: 326px;
+}
+.ubi {
+    color: #FF7600;
+    font-family: "Poetsen One";
+    font-size: 46px;
+    width: 223px;
+    margin-top: -387px;
+    margin-left: 988px;
+}
+.telefonos {
+    width: 242px;
+    color: #FF7E00;
+    font-family: "Poetsen One";
+    font-size: 52px;
+    margin-top: 192px;
+    margin-left: 980px;
+}
+.num {
+    color: #FFAE00;
+    font-family: "Poetsen One";
+    font-size: 37px;
+    width: 235px;
+    margin-left: 985px;
+    margin-top: 19px;
+}
+.pie {
+    background-color: #FF7E00;
+    margin-top: 118px;
+    width: 100%;
+    height: 87px;
+    padding-bottom: 5px;
+}
+.dere {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 20px;
+    width: 434px;
+    margin-top: -56px;
+    margin-left: 57px;
+}
+.fbb {
+    width: 60px;
+    height: 60px;
+    margin-top: -40px;
+    margin-left: 1003px;
+}
+.instab {
+    width: 50px;
+    height: 50px;
+    margin-top: -65px;
+    margin-left: 1126px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+.tiktokb {
+    width: 50px;
+    height: 50px;
+    margin-top: -58px;
+    margin-left: 65px;
+    padding-bottom: 20px;
+}
+.botonini {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.canopy {
+    width: 1343px;
+    height: 625px;
+}
+.botonacti {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.conpytitu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 50px;
+    width: 212px;
+    margin-top: -558px;
+    margin-left: 83px;
+}
+.cnpytext {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 22px;
+    width: 410px;
+    margin-top: 28px;
+    margin-left: 86px;
+}
+.textsegu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    width: 511px;
+    text-align: right;
+    font-size: 22px;
+    margin-left: 759px;
+    margin-top: 67px;
+}
+.horarios {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 30px;
+    width: 131px;
+    margin-top: 85px;
+    margin-left: 278px;
+}
+.hora {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    text-align: center;
+    width: 281px;
+    font-size: 29px;
+    margin-left: 199px;
+    margin-top: 31px;
+}
+.resev {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 25px;
+    text-align: center;
+    width: 441px;
+    margin-top: -114px;
+    margin-left: 769px;
+}
+.resevboton {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 30px;
+    width: 190px;
+    margin-left: 908px;
+    margin-top: 48px;
+}
+.caminatas {
+    width: 1343px;
+    height: 625px;
+    margin-top: 43px;
+}
+.camiavti {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 50px;
+    width: 277px;
+    margin-top: -507px;
+    margin-left: 77px;
+}
+.camitext {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 22px;
+    width: 367px;
+    margin-top: 33px;
+    margin-left: 81px;
+}
+.textsegu2 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 22px;
+    width: 462px;
+    text-align: right;
+    margin-left: 794px;
+    margin-top: 47px;
+}
+.hjora2 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    text-align: center;
+    width: 234px;
+    font-size: 25px;
+    margin-top: 11px;
+    margin-left: 220px;
+}
+.resevboton2 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 30px;
+    width: 184px;
+    margin-left: 904px;
+    margin-top: 34px;
+}
+.obsi {
+    width: 1343px;
+    height: 625px;
+    margin-top: 20px;
+}
+.obsititu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 50px;
+    width: 374px;
+    margin-top: -520px;
+    margin-left: 82px;
+}
+.obsitext {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 22px;
+    width: 328px;
+    margin-left: 84px;
+    margin-top: 40px;
+}
+.segutext3 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 22px;
+    text-align: right;
+    width: 443px;
+    margin-left: 803px;
+    margin-top: -16px;
+}
+.hora3 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 30px;
+    width: 275px;
+    text-align: center;
+    margin-top: 32px;
+    margin-left: 199px;
+}
+.resevboton3 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 30px;
+    width: 188px;
+    margin-left: 901px;
+    margin-top: 35px;
+}
+.fondo {
+    margin-top: -157px;
+    background-color: #FBB03B;
+    background-image: -webkit-linear-gradient(270deg,rgba(253,232,198,1.00) 0%,rgba(251,176,59,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(253,232,198,1.00) 0%,rgba(251,176,59,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(253,232,198,1.00) 0%,rgba(251,176,59,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(253,232,198,1.00) 0%,rgba(251,176,59,1.00) 100%);
+    width: 100%;
+    height: 62px;
+}
+.port6 {
+    width: 1343px;
+    height: 800px;
+}
+.port6titu {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 35px;
+    width: 427px;
+    margin-top: -723px;
+    margin-left: 118px;
+}
+.desc1 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 20px;
+    width: 500px;
+    margin-top: 17px;
+    margin-left: 121px;
+}
+.come {
+    width: 60px;
+    height: 60px;
+    margin-left: 169px;
+    margin-top: 68px;
+}
+.cale {
+    width: 60px;
+    height: 60px;
+    margin-left: 55px;
+}
+.price {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 40px;
+    width: 140px;
+    margin-top: -55px;
+    margin-left: 539px;
+}
+.image1 {
+    margin-top: -254px;
+    margin-left: 761px;
+    width: 475px;
+    height: 275px;
+}
+.port6titu2 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 35px;
+    width: 501px;
+    margin-top: 86px;
+    margin-left: 118px;
+}
+.desc2 {
+    color: #FFFFFF;
+    font-family: "Poetsen One";
+    font-size: 20px;
+    width: 455px;
+    margin-top: 22px;
+    margin-left: 120px;
+}
+.cama {
+    width: 60px;
+    height: 60px;
+    margin-left: 165px;
+    margin-top: 54px;
+    padding-top: 0px;
+}
+.persona {
+    width: 50px;
+    height: 50px;
+    margin-left: 60px;
+    margin-top: 6px;
+}
+.image2 {
+}
